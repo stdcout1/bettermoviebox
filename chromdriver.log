@@ -309,23 +309,9 @@
 [1629701073.340][DEBUG]: DevTools WebSocket Response: Runtime.evaluate (id=14) DAAB950F5503E1A7608D766488E4E9C5 {
    "result": {
       "description": "1",
-      "type": "number",
-      "value": 1
-   }
-}
-[1629701073.340][DEBUG]: DevTools WebSocket Command: DOM.getDocument (id=15) DAAB950F5503E1A7608D766488E4E9C5 {
-
-}
-[1629701073.341][DEBUG]: DevTools WebSocket Response: DOM.getDocument (id=15) DAAB950F5503E1A7608D766488E4E9C5 {
-   "root": {
-      "backendNodeId": 1,
-      "baseURL": "data:,",
-      "childNodeCount": 1,
-      "children": [ {
-         "attributes": [  ],
-         "backendNodeId": 2,
-         "childNodeCount": 2,
-         "children": [ {
+      "type": "number",[1629707267.296][SEVERE]: Cannot handle request with protocol: 
+[1629710737.412][SEVERE]: Cannot handle request with protocol: Ï;.;([1629710989.424][SEVERE]: Cannot handle request with protocol: ñTÎY.∂i[1629711793.421][SEVERE]: Cannot handle request with protocol: ˛tºı£·◊Y´ûøMºˆ–ô˘[1629712201.421][SEVERE]: Cannot handle request with protocol: UFR˙≈è˘ìë`˘[1629712861.423][SEVERE]: Cannot handle request with protocol: Ù˝e
+[1629712937.424][SEVERE]: Cannot handle request with protocol: Sf} {
             "attributes": [  ],
             "backendNodeId": 3,
             "childNodeCount": 0,
@@ -2703,24 +2689,7 @@
 [1629701074.629][DEBUG]: DevTools WebSocket Command: DOM.getDocument (id=47) DAAB950F5503E1A7608D766488E4E9C5 {
 
 }
-[1629701074.630][DEBUG]: DevTools WebSocket Response: DOM.getDocument (id=47) DAAB950F5503E1A7608D766488E4E9C5 {
-   "root": {
-      "backendNodeId": 1,
-      "baseURL": "https://s2dfree.cc/enter.html?url=/Mczo1ODoiMTA4MzN8fDI2MDc6ZmVhODoxMzIxOjM5MDA6N2MxZjo4MzRhOjU5ZTQ6OWVlMnx8MTYyOTY5Mjg0NyI7.html",
-      "childNodeCount": 1,
-      "children": [ {
-         "attributes": [ "lang", "en" ],
-         "backendNodeId": 2,
-         "childNodeCount": 2,
-         "children": [ {
-            "attributes": [  ],
-            "backendNodeId": 3,
-            "childNodeCount": 10,
-            "localName": "head",
-            "nodeId": 11,
-            "nodeName": "HEAD",
-            "nodeType": 1,
-            "nodeValue": "",
+[1629701074.6[1629707177.808][SEVERE]: Cannot handle request with protocol: ÿ+º`"/~<∫xµcÖ[1629707441.845][SEVERE]: Cannot handle request with protocol: Ö¢÷[1629711355.896][SEVERE]: Cannot handle request with protocol: (ÄÕã‡G√ÆÔ˙«C[1629711583.859][SEVERE]: Cannot handle request with protocol: €*ËÂ[1629711823.894][SEVERE]: Cannot handle request with protocol: U≠Õ´¡[1629711823.894][SEVERE]: Cannot handle request with protocol: NöÖ[1629711871.913][SEVERE]: Cannot handle request with protocol: [1629712207.910][SEVERE]: Cannot handle request with protocol: U[1629712687.886][SEVERE]: Cannot handle request with protocol: –PÜn›°ºA?Mjq€*ﬂ[1629712997.319][SEVERE]: Cannot handle request with protocol: üÆÉâ7yê&         "nodeValue": "",
             "parentId": 10
          }, {
             "attributes": [ "style", "text-align:center" ],
@@ -14727,32 +14696,10 @@
       "initialPriority": "High",
       "method": "POST",
       "mixedContentType": "none",
-      "postDataEntries": [ {
-         "bytes": ""
-      } ],
-      "referrerPolicy": "strict-origin-when-cross-origin",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j92&a=1374090651&t=pageview&_s=1&dl=https%3A%2F%2Fs2dfree.cc%2FMczo1ODoiMTA4MzN8fDI2MDc6ZmVhODoxMzIxOjM5MDA6N2MxZjo4MzRhOjU5ZTQ6OWVlMnx8MTYyOTY5Mjg..."
-   },
-   "requestId": "14484.102",
-   "timestamp": 20890.094285,
-   "type": "XHR",
-   "wallTime": 1629701077.254266
-}
-[1629701079.561][DEBUG]: DevTools WebSocket Event: Network.responseReceived DAAB950F5503E1A7608D766488E4E9C5 {
-   "frameId": "DAAB950F5503E1A7608D766488E4E9C5",
-   "loaderId": "F84C71C0EAB397FB8A78B18EEE3AB909",
-   "requestId": "14484.101",
-   "response": {
-      "connectionId": 349,
-      "connectionReused": false,
-      "encodedDataLength": 368,
-      "fromDiskCache": false,
-      "fromPrefetchCache": false,
-      "fromServiceWorker": false,
-      "headers": {
-         "access-control-allow-origin": "*",
-         "cache-control": "public, max-age=604800, immutable",
-         "content-encoding": "gzip",
+      "postDataEntries[1629704775.048][SEVERE]: Cannot handle request with protocol: Á[1629704823.052][SEVERE]: Cannot handle request with protocol: ™o#
+[1629704883.049][SEVERE]: Cannot handle request with protocol: Wdn®cA,≈°˝u˛ébbô¿E¸≤
+[1629707723.270][SEVERE]: Cannot handle request with protocol: ûÆú[1629707795.276][SEVERE]: Cannot handle request with protocol: ‰ø\ØhdN]”[1629710545.381][SEVERE]: Cannot handle request with protocol: ßpìg%≈iô1>EÁP_µ€gù[1629710581.392][SEVERE]: Cannot handle request with protocol: /≥∆kL„[1629710761.383][SEVERE]: Cannot handle request with protocol: ØÕ~[1629710857.391][SEVERE]: Cannot handle request with protocol: xpNÉ6£Ô⁄do[1629710857.391][SEVERE]: Cannot handle request with protocol: ’∞j®ÒÂ[1629711745.384][SEVERE]: Cannot handle request with protocol: ªëWπj3?!ˇ_6
+[1629711865.395][SEVERE]: Cannot handle request with protocol: [1629712177.388][SEVERE]: Cannot handle request with protocol: [1629712537.386][SEVERE]: Cannot handle request with protocol: 4[1629712573.381][SEVERE]: Cannot handle request with protocol: u_(ing": "gzip",
          "content-length": "58",
          "content-type": "image/gif",
          "date": "Mon, 23 Aug 2021 06:44:37 GMT",
@@ -15847,21 +15794,7 @@
          "pushStart": 0,
          "receiveHeadersEnd": 77.486,
          "requestTime": 20890.640523,
-         "sendEnd": 14.456,
-         "sendStart": 14.377,
-         "sslEnd": -1,
-         "sslStart": -1,
-         "workerFetchStart": -1,
-         "workerReady": -1,
-         "workerRespondWithSettled": -1,
-         "workerStart": -1
-      },
-      "url": "https://p374865.mybetterdl.com/adServe/diURL?cid=OM1SOAP2DAY_DI&pid=374865&ap=cmp%3DPOPUNDER_DI%26evp%3DrlgN14vPkelLF4M8WWTY11Y37AsT2AewefMHOwLoNCq45kCHVFuhpBuDcarg8RYY%26sjv%3D132.1%26ctid%3D0%26t..."
-   },
-   "timestamp": 20890.718517,
-   "type": "Script"
-}
-[1629701079.563][DEBUG]: DevTools WebSocket Event: Network.dataReceived DAAB950F5503E1A7608D766488E4E9C5 {
+   [1629704951.257][SEVERE]: Cannot handle request with protocol: C{Pï|ãŒàƒ3$Êî}önƒˇIHB[1629707539.466][SEVERE]: Cannot handle request with protocol: á€òÖÕgÁ3?XA.+a◊ﬁ32[1629710493.549][SEVERE]: Cannot handle request with protocol: aﬁB‚Ê~î)[1629711621.577][SEVERE]: Cannot handle request with protocol: [1629711777.597][SEVERE]: Cannot handle request with protocol: aä»Â≥˝†‡"{°[1629711945.579][SEVERE]: Cannot handle request with protocol: o[1629712173.590][SEVERE]: Cannot handle request with protocol: ®∑õ#zÄ±%[1629712533.588][SEVERE]: Cannot handle request with protocol: etwork.dataReceived DAAB950F5503E1A7608D766488E4E9C5 {
    "dataLength": 218,
    "encodedDataLength": 0,
    "requestId": "14484.104",
@@ -18930,89 +18863,24 @@
       "content-type": "text/javascript",
       "cross-origin-resource-policy": "cross-origin",
       "date": "Mon, 23 Aug 2021 06:44:39 GMT",
-      "expires": "Mon, 23 Aug 2021 06:44:39 GMT",
-      "last-modified": "Tue, 16 Feb 2021 23:57:06 GMT",
-      "server": "sffe",
-      "vary": "Accept-Encoding",
-      "x-content-type-options": "nosniff",
-      "x-xss-protection": "0"
-   },
-   "requestId": "14484.130",
-   "resourceIPAddressSpace": "Public"
-}
-[1629701079.571][DEBUG]: DevTools WebSocket Event: Network.responseReceived DAAB950F5503E1A7608D766488E4E9C5 {
-   "frameId": "DAAB950F5503E1A7608D766488E4E9C5",
-   "loaderId": "F84C71C0EAB397FB8A78B18EEE3AB909",
-   "requestId": "14484.130",
-   "response": {
-      "connectionId": 0,
-      "connectionReused": true,
-      "encodedDataLength": 23,
-      "fromDiskCache": false,
-      "fromPrefetchCache": false,
-      "fromServiceWorker": false,
-      "headers": {
-         "accept-ranges": "bytes",
-         "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
-         "cache-control": "private, max-age=3000",
-         "content-encoding": "gzip",
-         "content-length": "2007",
-         "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview",
-         "content-type": "text/javascript",
-         "cross-origin-resource-policy": "cross-origin",
-         "date": "Mon, 23 Aug 2021 06:44:39 GMT",
-         "expires": "Mon, 23 Aug 2021 06:44:39 GMT",
-         "last-modified": "Tue, 16 Feb 2021 23:57:06 GMT",
-         "server": "sffe",
-         "vary": "Accept-Encoding",
-         "x-content-type-options": "nosniff",
-         "x-xss-protection": "0"
-      },
-      "mimeType": "text/javascript",
-      "protocol": "h3-29",
-      "remoteIPAddress": "[2607:f8b0:400b:80f::2003]",
-      "remotePort": 443,
-      "responseTime": 1.629701078787646e+12,
-      "securityDetails": {
-         "certificateId": 0,
-         "certificateTransparencyCompliance": "compliant",
-         "cipher": "AES_128_GCM",
-         "issuer": "GTS CA 1C3",
-         "keyExchange": "",
-         "keyExchangeGroup": "X25519",
-         "protocol": "QUIC",
-         "sanList": [ "*.gstatic.com", "gstatic.com", "*.metric.gstatic.com", "kn.dev", "*.kn.dev" ],
-         "signedCertificateTimestampList": [ {
-            "hashAlgorithm": "SHA-256",
-            "logDescription": "Google 'Xenon2021' log",
-            "logId": "7D3EF2F88FFF88556824C2C0CA9E5289792BC50E78097F2E6A9768997E22F0D7",
+      "expires": "Mon, 23 Aug 2021 06:44:39 GM[1629704679.102][SEVERE]: Cannot handle request with proto[1629[1629710701.432][SEVERE]: Cannot handle request with protocol: @X€å∫H∆Âñâ›[1629710857.437][SEVERE]: Cannot handle request with protocol: ©Ùà]È{3[1629710929.427][SEVERE]: Cannot handle request with protocol: ≠£⁄~`Çe
+[1629711061.429][SEVERE]: Cannot handle request with protocol: 
+[1629711337.430][SEVERE]: Cannot handle request with protocol: ˛ro⁄
+[1629711433.437][SEVERE]: Cannot handle request with protocol: æÙT[1629711625.437][SEVERE]: Cannot handle request with protocol: rj[1629712009.436][SEVERE]: Cannot handle request with protocol: —q\∏fKâ”÷[1629712537.432][SEVERE]: Cannot handle request with protocol: 
+[1629712549.425][SEVERE]: Cannot handle request with protocol: *ê¥V∏waç∫1¢î@«^Ú[1629711433.359][SEVERE]: Cannot handle request with protocol: π⁄¬+~ƒP
+[1629711817.360][SEVERE]: Cannot handle request with protocol: “O˙8=ª[1629711937.353][SEVERE]: Cannot handle request with protocol: «.[1629712861.359][SEVERE]: Cannot handle request with protocol: Ic≤s√l: [1629712729.434][SEVERE]: Cannot handle request with protocol: ‘ƒVäéÄ†Çz#
+[1629712765.427][SEVERE]: Cannot handle request with protocol: $ç˜…pãıö“h±€?Pd<ä[1629710981.398][SEVERE]: Cannot handle request with protocol: ËÇY[1629711761.407][SEVERE]: Cannot handle request with protocol: k€< `„€(å[1629711881.402][SEVERE]: Cannot handle request with protocol: >[1629711905.403][SEVERE]: Cannot handle request with protocol: z{‡I2à±.…Äãb}π[[1629712025.397][SEVERE]: Cannot handle request with protocol: û¡—æ¸j
+[1629712061.408][SEVERE]: Cannot handle request with protocol: îOiq±p[1629712553.412][SEVERE]: Cannot handle request with protocol: }æ[1629712649.401][SEVERE]: Cannot handle request with protocol: +»∑™7[1629712853.411][SEVERE]: Cannot handle request with protocol: ÍwTÿG;ÿ˛≠¬È◊ΩÉÆ.Ñ¬æ∫¿[1629712893.404][SEVERE]: Cannot handle request with protocol: Qí[1629712941.405][SEVERE]: Cannot h[1629712953.340][SEVERE]: Cannot handle request with protocol: 5•π÷@˛]j>%x629710995.943][SEVERE]: Cannot handle request with protocol: §ïCπÖHÆ¡pµòt´Â~Ê∞¶1¿P·ß[1629711379.943][SEVERE]: Cannot handle request with protocol: ±svWÒ[1629711631.940][SEVERE]: Cannot handle request with protocol: ¬CJúwÅ=pÕq‰úÅzç1v"è[1629711679.944][SEVERE]: Cannot handle request with protocol: sª∞‹ πCòﬂô_”ÃAz€[1629712471.945][SEVERE]: Cannot handle request with protocol: |TIPLÎ[1629712995.931][SEVERE]: Cannot handle request with protocol: wA9E5289792BC50E78097F2E6A9768997E22F0D7",
             "origin": "Embedded in certificate",
             "signatureAlgorithm": "ECDSA",
-            "signatureData": "3045022100DB0FD90FEA525ECCDB911EC4BA401215EBAE664813B95A89878A51D1A22C547D02203D67C20E4C0184550D94305244B516FC913CF711E045CDF835E9A8E9910DDDFA",
-            "status": "Verified",
-            "timestamp": 1.627273015472e+12
-         }, {
-            "hashAlgorithm": "SHA-256",
-            "logDescription": "Let's Encrypt 'Oak2021' log",
-            "logId": "9420BC1E8ED58D6C88731F828B222C0DD1DA4D5E6C4F943D61DB4E2F584DA2C2",
+            "signatureData": "3045022100DB0FD90FEA525ECCDB911EC4BA401215EBAE664813B95A89878A51D1A22C547D02203D67C20E4C0[1629704759.257][SEVERE]: Cannot handle request with protocol: 2
+[1629707755.498][SEVERE]: Cannot handle request with protocol: #ˇ
+[1629711643.949][SEVERE]: Cannot handle request with protocol: àÉıM´ZÃ*π[1629711799.954][SEVERE]: Cannot handle request with protocol: sMNwJçFÖÜÅE8ED58D6C88731F828B222C0DD1DA4D5E6C4F943D61DB4E2F584DA2C2",
             "origin": "Embedded in certificate",
             "signatureAlgorithm": "ECDSA",
-            "signatureData": "3046022100D7A5CB9FC4EDC8D4A5FE37F2D9D0BA558B8B6CFE2EDBC5BCD800E4D58D66E253022100A618D0C554A4CD75EDC096DFADC3BC6DD47A5E84E6A04A7CBB18C35E299F71E2",
-            "status": "Verified",
-            "timestamp": 1.627273014967e+12
-         } ],
-         "subjectName": "*.gstatic.com",
-         "validFrom": 1627269414,
-         "validTo": 1634527013
-      },
-      "securityState": "secure",
-      "status": 200,
-      "statusText": "",
-      "timing": {
-         "connectEnd": -1,
-         "connectStart": -1,
-         "dnsEnd": -1,
-         "dnsStart": -1,
+            "signatureData": "3046022100D7A5CB9[1629704911.003][SEVERE]: Cannot handle request with protocol: Vi5Õ[1629707643.224][SEVERE]: Cannot handle request with protocol: ÕbT
+[1629707667.226][SEVERE]: Cannot handle request with protocol: [1629710765.336][SEVERE]: Cannot handle request with protocol: `[1629711113.344][SEVERE]: Cannot handle request with protocol: ˇÈ
+[1629711965.340][SEVERE]: Cannot handle request with protocol: 8¨vBﬁä¯fP@ã¸l%ÄËŸ(1„‘£[1629712169.349][SEVERE]: Cannot handle request with protocol: ¿[1629712421.344][SEVERE]: Cannot handle request with protocol: ﬁi-1,
          "proxyEnd": -1,
          "proxyStart": -1,
          "pushEnd": 0,
@@ -19070,49 +18938,11 @@
    },
    "requestId": "14484.131"
 }
-[1629701079.571][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated DAAB950F5503E1A7608D766488E4E9C5 {
-   "childNodeCount": 31,
-   "nodeId": 26
-}
-[1629701079.571][DEBUG]: DevTools WebSocket Event: Network.requestWillBeSent DAAB950F5503E1A7608D766488E4E9C5 {
-   "documentURL": "https://s2dfree.cc/Mczo1ODoiMTA4MzN8fDI2MDc6ZmVhODoxMzIxOjM5MDA6N2MxZjo4MzRhOjU5ZTQ6OWVlMnx8MTYyOTY5Mjg0NyI7.html",
-   "frameId": "DAAB950F5503E1A7608D766488E4E9C5",
-   "hasUserGesture": false,
-   "initiator": {
-      "stack": {
-         "callFrames": [ {
-            "columnNumber": 261,
-            "functionName": "E",
-            "lineNumber": 9,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         }, {
-            "columnNumber": 97,
-            "functionName": "K",
-            "lineNumber": 10,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         }, {
-            "columnNumber": 648,
-            "functionName": "",
-            "lineNumber": 10,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         }, {
-            "columnNumber": 165,
-            "functionName": "",
-            "lineNumber": 11,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         } ]
-      },
-      "type": "script"
-   },
-   "loaderId": "F84C71C0EAB397FB8A78B18EEE3AB909",
-   "request": {
-      "headers": {
-         "Referer": "https://s2dfree.cc/",
-         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+[1629701079.571][DEBUG]: DevTools WebSocket Event: DOM.child[1629704727.060][SEVERE]: Cannot handle request with protocol: 3¿o[1629704799.066][SEVERE]: Cannot handle request with protocol: ù[1629707219.277][SEVERE]: Cannot handle request with protocol: Ùœå8◊◊¢«SyÒo≠í53ŒÊ÷[1629707603.277][SEVERE]: Cannot handle request with protocol: [1629711589.395][SEVERE]: Cannot handle request with protocol: ùﬁB[1629711697.396][SEVERE]: Cannot handle request with protocol: Õ!j™ÁÃù)∂3—NÍ‰
+[1629712093.420][SEVERE]: Cannot handle request with protocol: Ä2W%Õ5g[1629712093.420][SEVERE]: Cannot handle request with protocol: g∆«P[1629712393.405][SEVERE]: Cannot handle request with protocol: π[1629712453.403][SEVERE]: Cannot handle request with protocol: O¿-òsÏŒ*ùa^RÍao{eÊ[1629712573.397][SEVERE]: Cannot handle request with protocol: g˜7
+[1629712905.396][SEVERE]: Cannot handle request with protocol: |Ó3Ãœ¿DñÊ‘ùPå„M%”ÀØb–©VERE]: Cannot handle request with protocol: âﬂNè2g¢GœÅfu!RE]: Cannot handle request with protocol: o„ªŸEx£-[1629711703.899][SEVERE]: Cannot handle [1629711715.878][SEVERE]: Cannot hand[1629712423.895][SEVERE]: Cannot handle request with protocol: B¢s{õVJSﬂò†µFN⁄÷5
+[1629712591.909][SEVERE]: Cannot handle request with protocol: zot handle request with protocol: B?%[1629712003.886][SEVERE]: Cannot handle request with protocol: ùb˙Û+%ﬂ_Gﬁ[1629712291.877][SEVERE]: Cannot handle request with protocol: ˛=CEñã°Îˆs4[1629712459.876][SEVERE]: Cannot handle request with protocol: )–AîÉ—t"€ui
+[1629712519.873][SEVERE]: Cannot handle request with protocol: m[1629712627.874][SEVERE]: Cannot handle request with protocol: ﬁËêiíÈs%ú[1629712663.884][SEVERE]: Cannot handle request with protocol: ıPıHgƒ—äùﬁq@˘Tßå‘Û‡4; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
          "sec-ch-ua": "\"Chromium\";v=\"92\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"92\"",
          "sec-ch-ua-mobile": "?0"
       },
@@ -19138,38 +18968,11 @@
    "initiator": {
       "stack": {
          "callFrames": [ {
-            "columnNumber": 261,
-            "functionName": "E",
-            "lineNumber": 9,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         }, {
-            "columnNumber": 988,
-            "functionName": "F",
-            "lineNumber": 6,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         }, {
-            "columnNumber": 136,
-            "functionName": "",
-            "lineNumber": 11,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         }, {
-            "columnNumber": 165,
-            "functionName": "",
-            "lineNumber": 11,
-            "scriptId": "50",
-            "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"
-         } ]
-      },
-      "type": "script"
-   },
-   "loaderId": "F84C71C0EAB397FB8A78B18EEE3AB909",
-   "request": {
-      "headers": {
-         "Referer": "https://s2dfree.cc/",
-         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+            "columnNu[1629704811.012][SEVERE]: Cannot handle request with protocol: ÄR
+[1629707435.217][SEVERE]: Cannot handle request with protocol: ¥óˇ≈lQèÊ[1629707495.230][SEVERE]: Cannot h[1629710905.349][SEVERE]: Cannot handle request with protocol: œf√¸€÷Ø≤©V[1629711109.341][SEVERE]: Cannot handle request with protocol: ⁄õıh!
+[1629711565.347][SEVERE]: Cannot handle request with protocol: ˜•[1629712009.344][SEVERE]: Cannot handle request with protocol: m_Rª{#êÊúﬁ[1629712969.344][SEVERE]: Cannot handle request with protocol: ëé˝D¡äS!-ÄkUVm8annot handle request with protocol: πÛﬁ¯Ñ„[1629711889.334][SEVERE]: Cannot handle request with protocol: 
+[1629712093.343][SEVERE]: Cannot handle request with protocol: ,$≥ã[1629712321.338][SEVERE]: Cannot handle request with protocol: ∏Ì;1_÷∑≤“[1629712333.348][SEVERE]: Cannot handle request with protocol: Äî/›hqÌs1[1629712393.344][SEVERE]: Cannot handle request with protocol: ¸≤ÖˇûÌƒA¯Ë=ä¡îv›FÎ]k[1629712705.338][SEVERE]: Cannot handle request with protocol: ìC∂æ handle request with protocol: ù˝l[1629712759.938][SEVERE]: Cannot handle request with protocol: i≤¸ñõhu†Óöæç´aX
+Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
          "sec-ch-ua": "\"Chromium\";v=\"92\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"92\"",
          "sec-ch-ua-mobile": "?0"
       },
@@ -19197,34 +19000,10 @@
       ":path": "/eureka/clank/92/cast_sender.js",
       ":scheme": "https",
       "accept": "*/*",
-      "accept-encoding": "gzip, deflate, br",
-      "accept-language": "en-US,en;q=0.9",
-      "referer": "https://s2dfree.cc/",
-      "sec-ch-ua": "\"Chromium\";v=\"92\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"92\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-fetch-dest": "script",
-      "sec-fetch-mode": "no-cors",
-      "sec-fetch-site": "cross-site",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
-   },
-   "requestId": "14484.132"
-}
-[1629701079.571][DEBUG]: DevTools WebSocket Event: Network.responseReceivedExtraInfo DAAB950F5503E1A7608D766488E4E9C5 {
-   "blockedCookies": [  ],
-   "headers": {
-      "accept-ranges": "bytes",
-      "age": "12409",
-      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
-      "cache-control": "public, max-age=86400",
-      "content-encoding": "gzip",
-      "content-length": "15330",
-      "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview-release",
-      "content-type": "text/javascript",
-      "cross-origin-resource-policy": "cross-origin",
-      "date": "Mon, 23 Aug 2021 03:17:50 GMT",
-      "expires": "Tue, 24 Aug 2021 03:17:50 GMT",
-      "last-modified": "Mon, 14 Jun 2021 15:08:18 GMT",
-      "server": "sffe",
+      "accept-encoding": "gzip, de[1629707273.846][SEVERE]: Cannot handle request with protocol: ∏wt°w"“sÖ∑∏ˇ$Ì[1629707369.854][SEVERE]: Cannot handle request with protocol: [1629707405.849][SEVERE]: Cannot handle request with protocol: g∑[1629707621.851][SEVERE]: Cannot handle request with protocol: vëª¡)É Û5_0fœ[1629711081.449][SEVERE]: Cannot handle request with protocol: k(E¨Ö&ºbÆø@r}≠èG[1629711093.442][SEVERE]: Cannot handle request with protocol: ∏å‰0!ÃúI≠–^π¸üà[1629711693.444][SEVERE]: Cannot handle request with protocol: xÚ\ÅZö(ò«$B
+[1629711969.473][SEVERE]: Cannot handle request with protocol: [1629712113.454][SEVERE]: Cannot handle request with protocol: ‚HR)iÁ_©˘ãuöèüÈ[1629712137.444][SEVERE]: Cannot handle request with protocol: RfÕcZ˛»æÅ1[@v\Üú
+[1629712341.450][SEVERE]: Cannot handle request with protocol:  kø˘
+[1629712581.453][SEVERE]: Cannot handle request with protocol: e˝[1629712797.458][SEVERE]: Cannot handle request with protocol: $not handle request with protocol: à±@Ì[1629711517.373][SEVERE]: Cannot handle request with protocol: –Å0=˘Î[1629711517.374][SEVERE]: Cannot handle request with protocol: ó[1629711577.371][SEVERE]: Cannot handle request with protocol: ã‡]ây[1629712237.370][SEVERE]: Cannot handle request with protocol: [1629712393.374][SEVERE]: Cannot handle request with protocol: 9∫»Ñ≥…ÄÉXEiÉå€˝yDΩ[1629712705.368][SEVERE]: Cannot handle request with protocol: >≥ı¢ÎZ[1629712905.364][SEVERE]: Cannot handle request with protocol: ﬁC≠Êm`^Zd·•oG"G;KÀ "server": "sffe",
       "vary": "Accept-Encoding",
       "x-content-type-options": "nosniff",
       "x-xss-protection": "0"
@@ -19240,74 +19019,20 @@
       "connectionId": 0,
       "connectionReused": true,
       "encodedDataLength": 24,
-      "fromDiskCache": false,
-      "fromPrefetchCache": false,
-      "fromServiceWorker": false,
-      "headers": {
-         "accept-ranges": "bytes",
-         "age": "12409",
-         "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+      "fromDiskCache": [1629704675.135][SEVERE]: Cannot handle request with protocol: öKg–ˆŒ[1629704699.122][SEVERE]: Cannot handle request with protocol: J£Ì,dô$o
+[1629711945.460][SEVERE]: Cannot handle request with protocol: „]ÃÎo£†]Èºxû[1629712593.431][SEVERE]: Cannot handle request with protocol: !Œ˚7`L˜ÿ•
+":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
          "cache-control": "public, max-age=86400",
-         "content-encoding": "gzip",
-         "content-length": "15330",
-         "content-security-policy-report-only": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview-release",
-         "content-type": "text/javascript",
-         "cross-origin-resource-policy": "cross-origin",
-         "date": "Mon, 23 Aug 2021 03:17:50 GMT",
-         "expires": "Tue, 24 Aug 2021 03:17:50 GMT",
-         "last-modified": "Mon, 14 Jun 2021 15:08:18 GMT",
-         "server": "sffe",
-         "vary": "Accept-Encoding",
-         "x-content-type-options": "nosniff",
-         "x-xss-protection": "0"
-      },
-      "mimeType": "text/javascript",
-      "protocol": "h3-29",
-      "remoteIPAddress": "[2607:f8b0:400b:80f::2003]",
-      "remotePort": 443,
-      "responseTime": 1.629701078803879e+12,
-      "securityDetails": {
-         "certificateId": 0,
-         "certificateTransparencyCompliance": "compliant",
-         "cipher": "AES_128_GCM",
-         "issuer": "GTS CA 1C3",
-         "keyExchange": "",
-         "keyExchangeGroup": "X25519",
-         "protocol": "QUIC",
-         "sanList": [ "*.gstatic.com", "gstatic.com", "*.metric.gstatic.com", "kn.dev", "*.kn.dev" ],
-         "signedCertificateTimestampList": [ {
-            "hashAlgorithm": "SHA-256",
-            "logDescription": "Google 'Xenon2021' log",
-            "logId": "7D3EF2F88FFF88556824C2C0CA9E5289792BC50E78097F2E6A9768997E22F0D7",
-            "origin": "Embedded in certificate",
-            "signatureAlgorithm": "ECDSA",
-            "signatureData": "3045022100DB0FD90FEA525ECCDB911EC4BA401215EBAE664813B95A89878A51D1A22C547D02203D67C20E4C0184550D94305244B516FC913CF711E045CDF835E9A8E9910DDDFA",
-            "status": "Verified",
-            "timestamp": 1.627273015472e+12
-         }, {
-            "hashAlgorithm": "SHA-256",
-            "logDescription": "Let's Encrypt 'Oak2021' log",
+         "[1629704771.111][SE[1629704889.507][SEVERE]: Cannot handle request [1629704927.101][SEVERE[1629707453.730][SEVERE]: Cannot handle request with protocol: ›¨
+[1629710479.849][SEVERE]: Cannot handle request with protocol: √≥'|;[1629710911.852][SEVERE]: Cannot handle request with protocol: [1629711643.826][SEVERE]: Cannot handle request with protocol: ith protocol: éIì+[;™ï¿†9i|V4ÉB[1629711369.426][SEVERE]: Cannot handle request with protocol: =2˙d–„M+AS∫q˝
+[1629711585.428][SEVERE]: Cannot handle request with protocol: Áér[1629711825.431][SEVERE]: Cannot handle request with protocol: ¶\B#a4[1629712293.431][SEVERE]: Cannot handle request with protocol: [1629712353.428][SEVERE]: Cannot handle request with protocol: le request with protocol: ˙-ÌöQG©dåÑ
+ Cannot handle request with protocol: “ƒÏ‡9fhB™!}[1629711369.487][SEVERE]: Cannot handle request with protocol: a€NÆñqÅÅ~ÿ#Ñî_ñ3[1629711477.442][SEVERE]: Cannot handle request with protocol: ô™[1629711801.553][SEVERE]: Cannot handle request with protocol: mlˇÈ¸Ç"ßzÜ[1629712017.493][SEVERE]: Cannot handle request with protocol: 
+[1629712125.540][SEVERE]: Cannot handle request with protocol: ú[1629712233.495][SEVERE]: Cannot handle request with protocol: ÕÍ=b
+[1629712617.525][SEVERE]: Cannot handle request with protocol: ≈[í`†Ñ6èÂ‹ÛBÄest with protocol: ŒÜ[1629710933.364][SEVERE]: Cannot handle request with protocol: È¢¯[1629711881.355][SEVERE]: Cannot handle request with protocol: Ä≥%(BòÇÚ$%A÷˘ûÖAV{ﬁÃ¡[1629711881.356][SEVERE]: Cannot handle request with protocol: Dn[1629711893.365][SEVERE]: Cannot handle request with protocol: ”#Ö®ÈTîéæm>
+[1629712073.355][SEVERE]: Cannot handle request with protocol: Ñƒ·1‚˚Á©m5≤Ä⁄ó§ƒô¥Ä∆É∂[1629712433.353][SEVERE]: Cannot handle request with protocol: àm§ÕÎ„[1629712493.354][SEVERE]: Cannot handle request with protocol: â”îÂ9ÇOµÌ¸*Ãu'Dıˆã∫vùæ¶cription": "Let's Encrypt 'Oak2021' log",
             "logId": "9420BC1E8ED58D6C88731F828B222C0DD1DA4D5E6C4F943D61DB4E2F584DA2C2",
-            "origin": "Embedded in certificate",
-            "signatureAlgorithm": "ECDSA",
-            "signatureData": "3046022100D7A5CB9FC4EDC8D4A5FE37F2D9D0BA558B8B6CFE2EDBC5BCD800E4D58D66E253022100A618D0C554A4CD75EDC096DFADC3BC6DD47A5E84E6A04A7CBB18C35E299F71E2",
-            "status": "Verified",
-            "timestamp": 1.627273014967e+12
-         } ],
-         "subjectName": "*.gstatic.com",
-         "validFrom": 1627269414,
-         "validTo": 1634527013
-      },
-      "securityState": "secure",
-      "status": 200,
-      "statusText": "",
-      "timing": {
-         "connectEnd": -1,
-         "connectStart": -1,
-         "dnsEnd": -1,
-         "dnsStart": -1,
-         "proxyEnd": -1,
-         "proxyStart": -1,
+            "origin": "Embedded in certifi[1629704939.017][SEVERE]: Cannot handle request with protocol: ∂≠ô¥õ[1629711021.360][SEVERE]: Cannot handle request with protocol: Kaôh~w[1629711105.359][SEVERE]: Cannot handle request with protocol: <CìïïÓ◊·][1629711369.349][SEVERE]: Cannot handle request with protocol: T
+[1629711537.363][SEVERE]: Cannot handle request with protocol: Q[1629711945.349][SEVERE]: Cannot handle request with protocol: —h<⁄ÃŸ[1629711993.368][SEVERE]: Cannot handle request with protocol: ;@HrY4|fπ1Ãs[1629712377.353][SEVERE]: Cannot handle request with protocol: ºüπ¶[1629712401.354][SEVERE]: Cannot handle request with protocol: ∂ÉÅÖÈ^[1629712641.358][SEVERE]: Cannot handle request with protocol: @Œüstüå?@Æ…"ˆŸ
          "pushEnd": 0,
          "pushStart": 0,
          "receiveHeadersEnd": 14.197,
@@ -19338,29 +19063,9 @@
    "shouldReportCorbBlocking": false,
    "timestamp": 20891.647182
 }
-[1629701079.571][DEBUG]: DevTools WebSocket Event: Network.responseReceivedExtraInfo DAAB950F5503E1A7608D766488E4E9C5 {
-   "blockedCookies": [  ],
-   "headers": {
-      "accept-ranges": "bytes",
-      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
-      "cache-control": "private, max-age=0",
-      "content-encoding": "gzip",
-      "content-length": "12390",
-      "content-type": "text/javascript",
-      "cross-origin-resource-policy": "cross-origin",
-      "date": "Mon, 23 Aug 2021 06:44:39 GMT",
-      "expires": "Mon, 23 Aug 2021 06:44:39 GMT",
-      "last-modified": "Mon, 06 Jul 2020 23:15:00 GMT",
-      "server": "sffe",
-      "vary": "Accept-Encoding",
-      "x-content-type-options": "nosniff",
-      "x-xss-protection": "0"
-   },
-   "requestId": "14484.131",
-   "resourceIPAddressSpace": "Public"
-}
-[1629701079.572][DEBUG]: DevTools WebSocket Event: Network.responseReceived DAAB950F5503E1A7608D766488E4E9C5 {
-   "frameId": "DAAB950F5503E1A7608D766488E4E9C5",
+[1629701079.571][DEBUG]: DevTools WebSocket Event: Network.responseReceivedExtraInfo DAAB[1629704841.611][SEVERE]: Cannot handle request with protocol: 8Eõ90!üJÁgñÑ¨WM7Õ„éÕﬂ[1629707249.814][SEVERE]: Cannot handle request with protocol: .Ì[1629707273.815][SEVERE]: Cannot handle request with protocol: Aæàc"⁄ìâA.m[1629707441.844][SEVERE]: Cannot handle request with protocol: %⁄ì¥©L‹[1629707513.819][SEVERE]: Cannot handle request with protocol: Ã"ÖG˛ó∏ï[1629710455.939][SEVERE]: Cannot handle request with protocol: »≥¶oæàr¡aÑËHRÚ˙ó™¢®J[1629710719.945][SEVERE]: Cannot handle request with protocol: &Õ[1629710935.947][SEVERE]: Cannot handle[1629710969.328][SEVERE]: Cannot ha[1629711487.929][SEVERE]: Cannot handle request with protocol: •˝ò;k2y(√©ﬁÈÙFË‚ü$qåZñ[1629712483.925][SEVERE]: Cannot handle request with protocol: v protocol: ¢÷m!
+[1629712157.325][SEVERE]: Cannot handle request with protocol: ä)l˚jéú[1629712373.325][SEVERE]: Cannot handle request with protocol: ≥~ô
+[1629712577.333][SEVERE]: Cannot handle request with protocol: öOf[1629712589.326][SEVERE]: Cannot handle request with protocol: >ã "frameId": "DAAB950F5503E1A7608D766488E4E9C5",
    "loaderId": "F84C71C0EAB397FB8A78B18EEE3AB909",
    "requestId": "14484.131",
    "response": {
@@ -19370,19 +19075,8 @@
       "fromDiskCache": false,
       "fromPrefetchCache": false,
       "fromServiceWorker": false,
-      "headers": {
-         "accept-ranges": "bytes",
-         "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
-         "cache-control": "private, max-age=0",
-         "content-encoding": "gzip",
-         "content-length": "12390",
-         "content-type": "text/javascript",
-         "cross-origin-resource-policy": "cross-origin",
-         "date": "Mon, 23 Aug 2021 06:44:39 GMT",
-         "expires": "Mon, 23 Aug 2021 06:44:39 GMT",
-         "last-modified": "Mon, 06 Jul 2020 23:15:00 GMT",
-         "server": "sffe",
-         "vary": "Accept-Encoding",
+    [1629707273.846][SEVERE]: Cannot handle request with protocol: $N'úm◊\¿Äâõ>9…áÎGNä;[1629707321.819][SEVERE]: Cannot handle request with protocol: qæ™aíÒ⁄§YﬂÖµ[1629707765.847][SEVERE]: Cannot handle request with protocol: X"[1629710455.985][SEVERE]: Cannot handle request with protocol: ≠Yyì†Ò}Ö§˛ql⁄„Q[1629711932.003][SEVERE]: Cannot handle request with protocol: zûL[1629712003.962][SEVERE]: Cannot handle request with protocol: µe•Aı,DyÄN=[1629712147.960][SEVERE]: Cannot handle request with protocol: [1629712411.918][SEVERE]: Cannot handle request with protocol: uÃSõ∂Ñrnc-äÜ
+[1629712507.957][SEVERE]: Cannot handle request with protocol: [1629712567.938][SEVERE]: Cannot handle request with protocol: .·∂Ï*,≠-Encoding",
          "x-content-type-options": "nosniff",
          "x-xss-protection": "0"
       },
@@ -19407,21 +19101,8 @@
             "origin": "Embedded in certificate",
             "signatureAlgorithm": "ECDSA",
             "signatureData": "3045022100DB0FD90FEA525ECCDB911EC4BA401215EBAE664813B95A89878A51D1A22C547D02203D67C20E4C0184550D94305244B516FC913CF711E045CDF835E9A8E9910DDDFA",
-            "status": "Verified",
-            "timestamp": 1.627273015472e+12
-         }, {
-            "hashAlgorithm": "SHA-256",
-            "logDescription": "Let's Encrypt 'Oak2021' log",
-            "logId": "9420BC1E8ED58D6C88731F828B222C0DD1DA4D5E6C4F943D61DB4E2F584DA2C2",
-            "origin": "Embedded in certificate",
-            "signatureAlgorithm": "ECDSA",
-            "signatureData": "3046022100D7A5CB9FC4EDC8D4A5FE37F2D9D0BA558B8B6CFE2EDBC5BCD800E4D58D66E253022100A618D0C554A4CD75EDC096DFADC3BC6DD47A5E84E6A04A7CBB18C35E299F71E2",
-            "status": "Verified",
-            "timestamp": 1.627273014967e+12
-         } ],
-         "subjectName": "*.gstatic.com",
-         "validFrom": 1627269414,
-         "validTo": 1634527013
+            "status": "Ve[1629704823.113][SEVERE]: Cannot handle request with protocol: 4“Éo[1629707435.325][SEVERE]: Cannot handle request with protocol: „°hVÓ5≤[1629707507.331][SEVERE]: Cannot handle request with protocol: AróB‹óâó‡„˙;ãŒ‰î[1629707687.352][SEVERE]: Cannot handle request with protocol: ÖRãÒ‡UsJ[1629707735.325][SEVERE]: Cannot handle request with protocol: !]˘â6ì8ü5Zà≤Ø‹.[1629711001.448][SEVERE]: Cannot handle request with protocol: W[1629711265.454][SEVERE]: Cannot handle request with protocol: ZX©ià∞äßÑÈ÷≥=É[1629711625.452][SEVERE]: Cannot handle request with protocol: í‚[1629711913.444][SEVERE]: Cannot handle request with protocol: "ñ
+[1629712429.447][SEVERE]: Cannot handle request with protocol: +ú<˙„Øé£´z¢;≠9†(¨34527013
       },
       "securityState": "secure",
       "status": 200,
@@ -19475,33 +19156,7 @@
    "shouldReportCorbBlocking": false,
    "timestamp": 20891.693008
 }
-[1629701079.572][DEBUG]: DevTools WebSocket Event: Network.requestWillBeSentExtraInfo DAAB950F5503E1A7608D766488E4E9C5 {
-   "associatedCookies": [  ],
-   "clientSecurityState": {
-      "initiatorIPAddressSpace": "Public",
-      "initiatorIsSecureContext": true,
-      "privateNetworkRequestPolicy": "Allow"
-   },
-   "headers": {
-      ":authority": "q11.wewon.to",
-      ":method": "GET",
-      ":path": "/a/extra/m2/2021/Breaking.Boundaries.The.Science.of.Our.Planet.2021.mp4?tok=62676B6B734B694A794C78572533444D68437767467741663041314D6C616A5968794C4D524B784E526F42676B41754D6965684D6B714C4F424B7A5A5...",
-      ":scheme": "https",
-      "accept": "*/*",
-      "accept-encoding": "identity;q=1, *;q=0",
-      "accept-language": "en-US,en;q=0.9",
-      "range": "bytes=0-",
-      "referer": "https://s2dfree.cc/",
-      "sec-ch-ua": "\"Chromium\";v=\"92\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"92\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-fetch-dest": "video",
-      "sec-fetch-mode": "no-cors",
-      "sec-fetch-site": "cross-site",
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36"
-   },
-   "requestId": "14484.129"
-}
-[1629701079.572][DEBUG]: DevTools WebSocket Event: DOM.childNodeCountUpdated DAAB950F5503E1A7608D766488E4E9C5 {
+[1629701079.572][DEBUG]: DevTools WebSocket Event: Network.requestWillBeSentE[1629710431.922][SEVERE]: Cannot handle request with protocol: °¶Öv[1629710575.919][SEVERE]: Cannot handle request with protocol: [1629710767.918][SEVERE]: Cannot handle request with protocol: pâ,<dÏ`_ª®i›L›ü[1629711415.909][SEVERE]: Cannot handle request with protocol: ±6}”¢R>]âHlYã2L[1629711475.935][SEVERE]: Cannot handle request with protocol: L˝Ÿè«jË´]ã√^Ë[1629712003.917][SEVERE]: Cannot handle request with protocol: ¿√úÓ¬êÃ<,ûç’é>[1629712087.915][SEVERE]: Cannot handle request with protocol: fôßÂ[1629712315.910][SEVERE]: Cannot handle request with protocol: £—∞kS"Ü[1629712387.931][SEVERE]: Cannot handle request with protocol: Ô›çbπ]Ê[1629712687.902][SEVERE]: Cannot handle request with protocol: u!‡/‰¿°`[1629712831.915][SEVERE]: Cannot handle request with protocol: Ñ[1629712963.902][SEVERE]: Cannot handle request with protocol: Ü”pµò∑ÀQ¢™D‡ìh protocol: Êyn#éUÛ†f√òOJªa∆h≠[1629711013.364][SEVERE]: Cannot handle request with protocol: Ê“J5ªîÂO˝∑√µ°#[1629711745.369][SEVERE]: Cannot handle request with protocol: ïy|#µÅÉÕ°[1629711937.369][SEVERE]: Cannot handle request with protocol: ∂[1629711973.364][SEVERE]: Cannot handle request with protocol: }˛»‡Öœz-«·öΩ(–ﬂ[1629712989.379][SEVERE]: Cannot handle request with protocol: ≈Œ03E1A7608D766488E4E9C5 {
    "childNodeCount": 25,
    "nodeId": 27
 }
@@ -19534,22 +19189,9 @@
       "headers": {
          "Content-Length": "902485861",
          "Content-Range": "bytes 0-902485860/902485861",
-         "access-control-allow-origin": "*",
-         "content-type": "video/mp4",
-         "date": "Mon, 23 Aug 2021 07:55:19 GMT",
-         "etag": "\"60ba0232-35cad765\"",
-         "last-modified": "Fri, 04 Jun 2021 10:36:34 GMT",
-         "server": "nginx"
-      },
-      "mimeType": "video/mp4",
-      "protocol": "h2",
-      "remoteIPAddress": "23.237.80.58",
-      "remotePort": 443,
-      "responseTime": 1.629701079010052e+12,
-      "securityDetails": {
-         "certificateId": 0,
-         "certificateTransparencyCompliance": "compliant",
-         "cipher": "AES_128_GCM",
+         "access-control-allow-origin": [1629704743.097][SEVERE]: Cannot handle request with protocol: ÿ[1629707475.318][SEVERE]: Cannot handle request with protocol: [1629710585.437][SEVERE]: Cannot handle request with protocol: P§í[1629710921.432][SEVERE]: Cannot handle request with protocol: ìK‘cy∫√Uﬁ‰∞ßÈkó¶dºãπË[1629711005.430][SEVERE]: Cannot handle request with protocol: 
+[1629711029.433][SEVERE]: Cannot handle request with protocol: Ö⁄Â[1629711881.431][SEVERE]: Cannot handle request with protocol: »d–¥Úy¸∆Ù[1629712817.430][SEVERE]: Cannot handle request with protocol: à
+28_GCM",
          "issuer": "Sectigo RSA Domain Validation Secure Server CA",
          "keyExchange": "ECDHE_RSA",
          "keyExchangeGroup": "P-256",
@@ -19558,19 +19200,8 @@
          "signedCertificateTimestampList": [ {
             "hashAlgorithm": "SHA-256",
             "logDescription": "Google 'Xenon2022' log",
-            "logId": "46A555EB75FA912030B5A28969F4F37D112C4174BEFD49B885ABF2FC70FE6D47",
-            "origin": "Embedded in certificate",
-            "signatureAlgorithm": "ECDSA",
-            "signatureData": "304502202AFA79367396FACBA427CB1F92362410B0A8FBAC9D349D2C5090216FAEF2A4920221009318E6A1707376366656362877153D3F175E6A548AD78EE0F97852389295F10F",
-            "status": "Verified",
-            "timestamp": 1.610714726338e+12
-         }, {
-            "hashAlgorithm": "SHA-256",
-            "logDescription": "Let's Encrypt 'Oak2022' log",
-            "logId": "DFA55EAB68824F1F6CADEEB85F4E3E5AEACDA212A46A5E8E3B12C020445C2A73",
-            "origin": "Embedded in certificate",
-            "signatureAlgorithm": "ECDSA",
-            "signatureData": "3044022036A9F4378F2F76BF28C374E5119453EE58AA8C52D89BAA8C75085103AA5154C102207B89477C5D08CE36B8655578B53F0DAFFB1B55D50BB174AC57ADFBEFBCB927EB",
+            "logId": "46A555EB75FA912030B5A28969F4F37D112C4174BEFD49B885ABF2FC70[1629707643.255][SEVERE]: Cannot handle request with protocol: [1629707703.251][SEVERE]: Cannot handle request with protocol: ìOºÆ•[…÷Î[1629707763.249][SEVERE]: Cannot handle request with protocol: Üﬁ#D‹ï.åƒ¬-s[1629710501.376][SEVERE]: Cannot handle request with protocol: ú>[1629711005.369][SEVERE]: Cannot handle request with protocol: ~¥Ë¥Ó[1629711113.376][SEVERE]: Cannot handle request with protocol: πûv≥õñY¬œÃ°≈
+[1629711353.374][SEVERE]: Cannot handle request with protocol: 2≥ù[1629712097.374][SEVERE]: Cannot handle request with protocol: áË´Ø{‹0lRˆØ≥â]Ì`[1629712553.380][SEVERE]: Cannot handle request with protocol: ]"G[1629712565.371][SEVERE]: Cannot handle request with protocol: X;7‰ù“ï∑∑[1629712649.370][SEVERE]: Cannot handle request with protocol: •9477C5D08CE36B8655578B53F0DAFFB1B55D50BB174AC57ADFBEFBCB927EB",
             "status": "Verified",
             "timestamp": 1.610714726378e+12
          } ],
@@ -19952,20 +19583,7 @@
 [1629701079.573][DEBUG]: DevTools WebSocket Event: Network.dataReceived DAAB950F5503E1A7608D766488E4E9C5 {
    "dataLength": 17575,
    "encodedDataLength": 47703,
-   "requestId": "14484.127",
-   "timestamp": 20892.295119
-}
-[1629701079.573][DEBUG]: DevTools WebSocket Event: Network.dataReceived DAAB950F5503E1A7608D766488E4E9C5 {
-   "dataLength": 16408,
-   "encodedDataLength": 17580,
-   "requestId": "14484.127",
-   "timestamp": 20892.295447
-}
-[1629701079.573][DEBUG]: DevTools WebSocket Event: Network.dataReceived DAAB950F5503E1A7608D766488E4E9C5 {
-   "dataLength": 1172,
-   "encodedDataLength": 16408,
-   "requestId": "14484.127",
-   "timestamp": 20892.296129
+   "requ[1629704697.523][SEVERE]: Cannot handle request with protocol: ÕÒX&!Ω·‚÷ÿZfÊ[1629704721.555][SEVERE]: Cannot handle request with protocol: ‘q`G§¶[1629707189.740][SEVERE]: Cannot handle request with protocol: e[1629710407.858][SEVERE]: Cannot handle request with protocol: ia—ÉUyqÂ7‡/FÜ0á¨∆[1629711283.843][SEVERE]: Cannot handle request with protocol: ∂bÈπ¯Z[1629712615.850][SEVERE]: Cannot handle request with protocol: ˜„ı[1629712843.848][SEVERE]: Cannot handle request with protocol: dR;-@_Yã—F29
 }
 [1629701079.573][DEBUG]: DevTools WebSocket Event: Network.dataReceived DAAB950F5503E1A7608D766488E4E9C5 {
    "dataLength": 6594,
@@ -20178,18 +19796,23 @@
    "timestamp": 1.629701074158e+12
 }, {
    "level": "INFO",
-   "message": "{\"message\":{\"method\":\"Network.requestWillBeSent\",\"params\":{\"documentURL\":\"https://s2dfree.cc/enter.html?url=/Mczo1ODoiMTA4MzN8fDI2MDc6ZmVhODoxMzIxOjM5MDA6N2MxZjo4MzRhOjU5ZTQ6OWVlMnx8MTYyOTY5Mjg0NyI...",
-   "timestamp": 1.629701074158e+12
-}, {
-   "level": "INFO",
-   "message": "{\"message\":{\"method\":\"Network.requestWillBeSentExtraInfo\",\"params\":{\"associatedCookies\":[],\"clientSecurityState\":{\"initiatorIPAddressSpace\":\"Public\",\"initiatorIsSecureContext\":true,\"privateNetworkR...",
-   "timestamp": 1.629701074158e+12
-}, {
-   "level": "INFO",
-   "message": "{\"message\":{\"method\":\"Network.requestWillBeSentExtraInfo\",\"params\":{\"associatedCookies\":[],\"clientSecurityState\":{\"initiatorIPAddressSpace\":\"Public\",\"initiatorIsSecureContext\":true,\"privateNetworkR...",
+   "message": "{\"message\":{\"method\[1629704794.990][SEVERE]: Cannot handle request with protocol: £Vsç≠+—]bE4¿Ò//$®[1629704962.989][SEVERE]: Cannot handle request with protocol: glBãph6EÜÅ‘∑ëç;“∏¨ˇ[1629707551.213][SEVERE]: Cannot handle request with protocol: f3≈„£◊‹˚˙â*[1629711657.326][SEVERE]: Cannot handle request with protocol: *CºÆx˝ù1ÊΩ‚[1629711777.320][SEVERE]: Cannot handle request with protocol: ˝ø[1629711801.353][SEVERE]: Cannot handle request with protocol: PÏ∫Ã∏Ò&[1629711909.323][SEVERE]: Cannot handle request with protocol: PúQgk•”›-Ì[1629711981.329][SEVERE]: Cannot handle request with protocol: >[1629712317.326][SEVERE]: Cannot handle request with protocol: @à[1629712365.329][SEVERE]: Cannot handle request with protocol: uΩ¢\"Public\",\"initiatorIsSecureContext\":true,\"privateNetworkR...",
    "timestamp": 1.629701074158e+12
 }, {
    "level": "INFO",
    "message": "{\"message\":{\"method\":\"Network.requestWillBeSentExtraInfo\",\"params\":{\"associatedCookies\":[],\"clientSecurityState\":{\"initiatorIPAddressSpace\":\"Public\",\"initiatorIsSecureContext\":true,\"privateNetworkR...",
    "timestamp": 1.629701074158e+12
 }, "..." ]
+[1629707267.295][SEVERE]: Cannot handle request with protocol: ≥È}’“[1629707531.303][SEVERE]: Cannot handle request with protocol: +
+[1629707783.298][SEVERE]: Cannot handle request with protocol: ﬁO©VŒBA¡ö@x–âTÂ[1629710641.420][SEVERE]: Cannot handle request with protocol: à‘ÛF{2˚czi^–<q[1629710689.424][SEVERE]: Cannot handle request with protocol: ˙àMßg«Ç[1629711625.421][SEVERE]: Cannot handle request with protocol: {æôöG;”#f®4~›M1∂ÍT[1629711673.424][SEVERE]: Cannot handle request with protocol: WO¿ß[1629711745.415][SEVERE]: Cannot handle request with protocol: ‚ıaØ˚                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [1629707489.771][SEVERE]: Cannot handle request with protocol: 7ˇ2^åΩ≠Î´‚D◊‰Á[1629707633.782][SEVERE]: Cannot handle request with protocol: *sq¨µø)S„∑fÙÄÀ
+[1629710803.898][SEVERE]: Cannot handle request with protocol: òÑå±}®ËÁ•n[1629710815.892][SEVERE]: Cannot handle request with protocol: [1629710851.886][SEVERE]: Cannot handle request with protocol: ºÀ3ºnÑ]ﬂÍvYtÂõòv+™[1629710875.888][SEVERE]: Cannot handle request with protocol: ﬁ
+[1629710923.891][SEVERE]: Cannot handle request with protocol: Ô£≠Ã›?îà?±[1629711499.876][SEVERE]: Cannot handle request with protocol: R˘¯®ì-XûàîP4?H–,œ9[1629711535.872][SEVERE]: Cannot handle request with protocol: ñz
+[1629711619.885][SEVERE]: Cannot handle request with protocol: ‡±GP@≈≤!è»
+[1629711643.872][SEVERE]: Cannot handle request with protocol: bÇ€ƒh]àéìSÈG[1629711703.884][SEVERE]: Cannot handle request with protocol: qsS$m›>GáT–√™Â[1629712027.872][SEVERE]: Cannot handle request with protocol: ˇDÙòò÷Xy;˙* ã[1629712063.882][SEVERE]: Cannot handle request with protocol: WtÏ´¬P/S[1629712159.875][SEVERE]: Cannot handle request with protocol: [1629712915.867][SEVERE]: Cannot handle request with protocol: ‚∂ŸÀM‹¶@Á»¿Wn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           [1629704770.991][SEVERE]: Cannot handle request with protocol: 9f∞|61∆¿ÑT[1629704806.969][SEVERE]: Cannot handle request with protocol: /[1629707599.187][SEVERE]: Cannot handle request with protocol: ≤_á[1629710577.318][SEVERE]: Cannot handle request with protocol: ı(K[1629710853.317][SEVERE]: Cannot handle request with protocol: C–ô3«=
+[1629711597.314][SEVERE]: Cannot handle request with protocol: 5˛ûlﬂ[1629712101.310][SEVERE]: Cannot handle request with protocol: EÚ≠
+[1629712209.309][SEVERE]: Cannot handle request with protocol: œ–C∑AÕ¢ÜäaÍ…Î≤a))¯˛¬/9s[1629712737.310][SEVERE]: Cannot handle request with protocol: ,È,m´>˚•–¶¿2ç'¨p#°                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [1629707671.284][SEVERE]: Cannot handle request with protocol: Óøi+c/~º∫Ö|æk
+[1629710769.410][SEVERE]: Cannot handle request with protocol: $Ò¢À∆E˙6([1629711021.406][SEVERE]: Cannot handle request with protocol: ˆ«Ò°,‰[1629711141.402][SEVERE]: Cannot handle request with protocol: Ω≤[ZP[1629711309.398][SEVERE]: Cannot handle request with protocol: ≠à[1629711381.405][SEVERE]: Cannot handle request with protocol: WtZo<
+[1629711717.400][SEVERE]: Cannot handle request with protocol: ΩMÂ[1629711957.404][SEVERE]: Cannot handle request with protocol: #f=÷·`ÓÎ%i˙˙≤/
+[1629712137.396][SEVERE]: Cannot handle request with protocol: ƒ£ïT“Ä©∆ïJ◊~´úRÕ_πÖ∑WÃ[1629712221.410][SEVERE]: Cannot handle request with protocol: É°ã°ú$â€ƒ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                [1629707177.746][SEVERE]: Cannot handle request with protocol: ÅS˛∞«”â˙—ÄUq[1629707177.748][SEVERE]: Cannot handle request with protocol: d·~Aû¯,$ê4Âu'Cﬂ◊ À™˝¯{—[1629707669.747][SEVERE]: Cannot handle request with protocol: ∫Ÿ
+[1629707681.740][SEVERE]: Cannot handle request with protocol: [1629710779.866][SEVERE]: Cannot handle request with protocol: ÊQÖw;L([1629710935.870][SEVERE]: Cannot handle request with protocol: ⁄áÅ<
+[1629711247.848][SEVERE]: Cannot handle request with protocol: Æ+/ò6˙v+£«#4†ÃÃaZP[1629711943.842][SEVERE]: Cannot handle request with protocol: [1629712387.870][SEVERE]: Cannot handle request with protocol: €tîô°«y[1629712483.847][SEVERE]: Cannot handle request with protocol: Â°®Î€À°†vÃR>û»ü[1629712711.842][SEVERE]: Cannot handle request with protocol: Ô6
