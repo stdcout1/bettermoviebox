@@ -3,7 +3,7 @@ from time import sleep
 from json import *
 a = []
 options = webdriver.ChromeOptions()
-options.add_argument('headless')
+#options.add_argument('headless')
 
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
@@ -22,7 +22,7 @@ while not a:
                                             r"--log-path=C:\Users\nasir\PycharmProjects\bettermoviebox\chromdriver.log"],
                               desired_capabilities=d,
                               options=options)
-    driver.get('https://s2dfree.cc/search/keyword/iron man')
+    driver.get('https://s2dfree.cc/search/keyword/breaking')
     btn = driver.find_element_by_id('btn')
     btn.click()
 
